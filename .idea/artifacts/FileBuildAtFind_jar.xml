@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FileBuildAtFind:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileBuildAtFind_jar</output-path>
+    <root id="archive" name="FileBuildAtFind.jar">
+      <element id="module-output" name="FileBuildAtFind" />
+    </root>
+  </artifact>
+</component>
